@@ -134,7 +134,7 @@ export default function Home() {
       <div id="from-the-blog">
         <h1 className="heading">FROM THE BLOG</h1>
         <div className="from-the-blog-container">
-          <Link href={"/blogs/" + 1}>
+          <Link href={"/blogs"}>
             <div className="blog">
               <Image src={b1} width="300px" height="300px"></Image>
               <div className="bk">
@@ -146,7 +146,7 @@ export default function Home() {
               </div>
             </div>
           </Link>
-          <Link href={"/blogs/" + 2}>
+          <Link href={"/blogs"}>
             <div className="blog">
               <Image src={b2} width="300px" height="300px"></Image>
               <div className="bk">
