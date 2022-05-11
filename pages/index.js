@@ -136,7 +136,9 @@ export default function Home() {
         <div className="from-the-blog-container">
           <Link href={"/blogs"}>
             <div className="blog">
-              <Image src={b1} width="300px" height="300px"></Image>
+              <div className="blog-image">
+                <Image src={b1} layout="responsive"></Image>
+              </div>
               <div className="bk">
                 <h1 className="heading">Fashion and ettiquette</h1>
                 <div className="clicks">
@@ -148,7 +150,9 @@ export default function Home() {
           </Link>
           <Link href={"/blogs"}>
             <div className="blog">
-              <Image src={b2} width="300px" height="300px"></Image>
+              <div className="blog-image">
+                <Image src={b2} layout="responsive"></Image>
+              </div>
               <div className="bk">
                 <h1 className="heading">The gentleman guide </h1>
                 <div className="clicks">
