@@ -131,7 +131,7 @@ export default function Home() {
         </div>
       </div>
       {/* from the blogs */}
-      <div id="from-the-blog">
+      {/* <div id="from-the-blog">
         <h1 className="heading">FROM THE BLOG</h1>
         <div className="from-the-blog-container">
           <Link href={"/blogs"}>
@@ -163,7 +163,7 @@ export default function Home() {
             </div>
           </Link>
         </div>
-      </div>
+      </div> */}
       {/* follow-insta section */}
       <div id="follow-us">
         <h1 className="heading">FOLLOW US AT @INSTAGRAM</h1>
