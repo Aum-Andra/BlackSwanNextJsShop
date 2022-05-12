@@ -10,8 +10,7 @@ import f3 from "../img/dress29.jpg";
 import f4 from "../img/dress30.jpg";
 import f5 from "../img/dress32.jpg";
 import f6 from "../img/dress15.jpg";
-import b1 from "../img/instElegant.jpg";
-import b2 from "../img/menfas.jpg";
+
 import i1 from "../img/instaPost1.jpg";
 import i2 from "../img/instaPost2.jpg";
 import i3 from "../img/instaPost3.jpg";
